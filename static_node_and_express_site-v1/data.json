@@ -3,11 +3,11 @@
     {
       "id": 0,
       "project_name": "A Random Quote Generator",
-      "description": "A Random Quote Generator is a program that displays a randomly selected quote each time the user clicks a button.",
+      "description": "A Random Quote Generator is a program that displays a randomly selected quote each time the user clicks a button or the quotes changes at a specific time interval as well as the background color.",
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-1",
-      "image_urls": ["/static/images/random_quotes_1.png", "/static/images/random_quotes_2.png", "/static/images/random_quotes_3.png"]
+      "image_urls": ["/static/images/random_quotes_2.png", "/static/images/random_quotes_3.png"]
     },
     {
       "id": 1,
