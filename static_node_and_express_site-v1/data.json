@@ -16,7 +16,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-2",
-      "image_urls": ""
+      "image_urls": ["/static/images/students_start.png", "/static/images/students_search.png", "/static/images/students_no_match.png"]
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-3",
-      "image_urls": ""
+      "image_urls": ["/static/images/interactive_form_start_error.png", "/static/images/interactive_form_middle_error.png", "/static/images/interactive_form_credit_card_error.png", "/static/images/interactive_form_middle_validate.png", "/static/images/interactive_form_paypal.png"]
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-4",
-      "image_urls": ""
+      "image_urls": ["/static/images/phrase_hunter_new_game.png", "/static/images/phrase_hunter_game_ongoing.png", "/static/images/phrase_hunter_game_lost.png", "/static/images/phrase_hunter_game_won.png"]
     },
     {
       "id": 4,
@@ -43,7 +43,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-5",
-      "image_urls": ""
+      "image_urls": ["/static/images/public_api_requests_modal_start.png", "/static/images/public_api_requests_modal_middle.png", "/static/images/public_api_requests_last_details.png", "/static/images/public_api_requests_search.png"]
     }
   ]
 }
