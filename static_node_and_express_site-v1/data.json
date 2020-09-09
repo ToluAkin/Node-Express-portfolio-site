@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "A Random Quote Generator",
+      "description": "A Random Quote Generator is a program that displays a randomly selected quote each time the user clicks a button.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "",
+      "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-1",
+      "image_urls": ["/static/images/random_quotes_1.png", "/static/images/random_quotes_2.png", "/static/images/random_quotes_3.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "List Pagination and Filtering",
+      "description": "List Pagination and Filtering is navigating through a long list of items by displaying a handful of items on one page and provide navigation to jump to a list of more items. Users can also filter by name.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "",
+      "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-2",
+      "image_urls": ""
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "Interactive Form displays a form enhancement such that it’s engaging, interactive, and easy to use. The form fields validated with friendly error messages.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "",
+      "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-3",
+      "image_urls": ""
+    },
+    {
+      "id": 3,
+      "project_name": "OOP Game Show App ",
+      "description": "A browser-based, word guessing game: 'Phrase Hunter.'. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. with limited number of attempts",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "",
+      "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-4",
+      "image_urls": ""
+    },
+    {
+      "id": 4,
+      "project_name": "Public API Requests",
+      "description": "Created an employee directory by communicating with a third-party API (Application Programming Interface) to display a specific number details.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "",
+      "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-5",
+      "image_urls": ""
+    }
+  ]
+}
