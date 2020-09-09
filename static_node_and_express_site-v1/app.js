@@ -15,7 +15,7 @@ app.set('view engine', 'pug');
 
 // render the landing page
 app.get('/', (req, res) => {
-    res.render('index');
+    res.render('index', { projects });
 });
 
 //render project page
