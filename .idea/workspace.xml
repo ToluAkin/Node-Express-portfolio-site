@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1d60644-d83a-4eb0-8237-fed32c7997b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/example-html/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/example-html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/example-html/project.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/mockups/about-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/mockups/index-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/mockups/project-page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/css/foundation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/css/foundation.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/desk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/interactive_form_550_X_550.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/interactive_form_credit_card_error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/interactive_form_middle_error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/interactive_form_middle_validate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/interactive_form_paypal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/interactive_form_start_error.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/phrase_hunter_550_X_550.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/phrase_hunter_game_lost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/phrase_hunter_game_ongoing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/phrase_hunter_game_won.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/phrase_hunter_new_game.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/public_api_requests_550_X_550.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/public_api_requests_last_details.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/public_api_requests_modal_middle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/public_api_requests_modal_start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/public_api_requests_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/random_quotes_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/random_quotes_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/random_quotes_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/random_quotes_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/random_quotes_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/random_quotes_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/student_end.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/students_550_X_550.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/students_end.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/students_no_match.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/students_search.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/images/students_start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/js/vendor/foundation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/js/vendor/foundation.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/js/vendor/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/public/js/vendor/what-input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/views/about.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/views/error.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/views/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/views/layout.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/views/page-not-found.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_node_and_express_site-v1/views/project.pug" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Pug File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hHnFzg9XZ4cnPH4XRZTDRWGGKn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static_node_and_express_site-v1/public/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static_node_and_express_site-v1/public/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/static_node_and_express_site-v1/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="$USER_HOME$/.nvm/versions/node/v13.0.1/bin/node" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1d60644-d83a-4eb0-8237-fed32c7997b0" name="Default Changelist" comment="" />
+      <created>1599676790837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599676790837</updated>
+      <workItem from="1599676794515" duration="5396000" />
+      <workItem from="1599727907177" duration="599000" />
+      <workItem from="1599745839803" duration="9910000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated personal details and image rendering">
+      <created>1599682155251</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599682155251</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added more images&#10;completed error logging&#10;added error pages&#10;changed font-family&#10;app starts on npm start">
+      <created>1599753161287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599753161287</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added live links">
+      <created>1599755273960</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599755273960</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated personal details and image rendering" />
+    <MESSAGE value="Added more images&#10;completed error logging&#10;added error pages&#10;changed font-family&#10;app starts on npm start" />
+    <MESSAGE value="added live links" />
+    <option name="LAST_COMMIT_MESSAGE" value="added live links" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1285" height="172" key="GridCell.Tab.0.bottom" timestamp="1599756044621">
+      <screen x="58" y="27" width="1308" height="741" />
+    </state>
+    <state width="1285" height="172" key="GridCell.Tab.0.bottom/58.27.1308.741@58.27.1308.741" timestamp="1599756044621" />
+    <state width="1285" height="172" key="GridCell.Tab.0.center" timestamp="1599756044621">
+      <screen x="58" y="27" width="1308" height="741" />
+    </state>
+    <state width="1285" height="172" key="GridCell.Tab.0.center/58.27.1308.741@58.27.1308.741" timestamp="1599756044621" />
+    <state width="1285" height="172" key="GridCell.Tab.0.left" timestamp="1599756044620">
+      <screen x="58" y="27" width="1308" height="741" />
+    </state>
+    <state width="1285" height="172" key="GridCell.Tab.0.left/58.27.1308.741@58.27.1308.741" timestamp="1599756044620" />
+    <state width="1285" height="172" key="GridCell.Tab.0.right" timestamp="1599756044621">
+      <screen x="58" y="27" width="1308" height="741" />
+    </state>
+    <state width="1285" height="172" key="GridCell.Tab.0.right/58.27.1308.741@58.27.1308.741" timestamp="1599756044621" />
+    <state x="307" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599755277587">
+      <screen x="58" y="27" width="1308" height="741" />
+    </state>
+    <state x="307" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/58.27.1308.741@58.27.1308.741" timestamp="1599755277587" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1599746192792">
+      <screen x="58" y="27" width="1308" height="741" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/58.27.1308.741@58.27.1308.741" timestamp="1599746192792" />
+  </component>
+</project>
