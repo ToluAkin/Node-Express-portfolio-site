@@ -1,0 +1,9 @@
+extends layout
+
+block content
+    nav.grid-container.portfolio-breadcrumb
+        a(href='/') ← Back
+    article.grid-container.portfolio-intro.portfolio-project
+        h6= message
+        h6= err.status
+        pre #{err.stack}

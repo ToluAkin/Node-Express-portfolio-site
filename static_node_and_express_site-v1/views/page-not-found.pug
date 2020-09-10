@@ -1,0 +1,9 @@
+extends layout
+
+block content
+    nav.grid-container.portfolio-breadcrumb
+        a(href='/') ← Back
+    article.grid-container.portfolio-intro.portfolio-project
+        h6= `Status: ${err.status} - ${err.message} `
+        img(src="/static/images/desk.svg")
+        pre.stack-trace= err.stack

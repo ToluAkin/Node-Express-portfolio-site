@@ -7,7 +7,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-1",
-      "image_urls": ["/static/images/random_quotes_0.png", "/static/images/random_quotes_2.png", "/static/images/random_quotes_3.png"]
+      "image_urls": ["/static/images/random_quotes_0.png", "/static/images/random_quotes_2.png", "/static/images/random_quotes_3.png","/static/images/random_quotes_4.png", "/static/images/random_quotes_5.png"]
     },
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-2",
-      "image_urls": ["/static/images/students_550_X_550.png", "/static/images/students_start.png", "/static/images/students_search.png", "/static/images/students_no_match.png"]
+      "image_urls": ["/static/images/students_550_X_550.png", "/static/images/students_start.png","/static/images/students_end.png", "/static/images/students_search.png", "/static/images/students_no_match.png"]
     },
     {
       "id": 2,
