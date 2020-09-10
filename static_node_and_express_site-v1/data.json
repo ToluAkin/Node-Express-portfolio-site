@@ -5,7 +5,7 @@
       "project_name": "A Random Quote Generator",
       "description": "A Random Quote Generator is a program that displays a randomly selected quote each time the user clicks a button or the quotes changes at a specific time interval as well as the background color.",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "",
+      "live_link": "https://toluakin.github.io/Treehouse_FSJS_1/",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-1",
       "image_urls": ["/static/images/random_quotes_0.png", "/static/images/random_quotes_2.png", "/static/images/random_quotes_3.png","/static/images/random_quotes_4.png", "/static/images/random_quotes_5.png"]
     },
@@ -14,7 +14,7 @@
       "project_name": "List Pagination and Filtering",
       "description": "List Pagination and Filtering is navigating through a long list of items by displaying a handful of items on one page and provide navigation to jump to a list of more items. Users can also filter by name.",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "",
+      "live_link": "https://toluakin.github.io/Treehouse-FSJS-2/",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-2",
       "image_urls": ["/static/images/students_550_X_550.png", "/static/images/students_start.png","/static/images/students_end.png", "/static/images/students_search.png", "/static/images/students_no_match.png"]
     },
@@ -23,7 +23,7 @@
       "project_name": "Interactive Form",
       "description": "Interactive Form displays a form enhancement such that it’s engaging, interactive, and easy to use. The form fields validated with friendly error messages.",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "",
+      "live_link": "https://toluakin.github.io/Treehouse-FSJS-3/",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-3",
       "image_urls": [ "/static/images/interactive_form_550_X_550.png", "/static/images/interactive_form_start_error.png", "/static/images/interactive_form_middle_error.png", "/static/images/interactive_form_credit_card_error.png", "/static/images/interactive_form_middle_validate.png"]
     },
@@ -32,7 +32,7 @@
       "project_name": "OOP Game Show App ",
       "description": "A browser-based, word guessing game: 'Phrase Hunter.'. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. with limited number of attempts",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "",
+      "live_link": "https://toluakin.github.io/Treehouse-FSJS-4/",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-4",
       "image_urls": ["/static/images/phrase_hunter_550_X_550.png", "/static/images/phrase_hunter_new_game.png", "/static/images/phrase_hunter_game_ongoing.png", "/static/images/phrase_hunter_game_lost.png", "/static/images/phrase_hunter_game_won.png"]
     },
@@ -41,7 +41,7 @@
       "project_name": "Public API Requests",
       "description": "Created an employee directory by communicating with a third-party API (Application Programming Interface) to display a specific number details.",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "",
+      "live_link": "https://toluakin.github.io/Treehouse-FSJS-5/",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-5",
       "image_urls": ["/static/images/public_api_requests_550_X_550.png", "/static/images/public_api_requests_modal_start.png", "/static/images/public_api_requests_modal_middle.png", "/static/images/public_api_requests_last_details.png", "/static/images/public_api_requests_search.png"]
     }
