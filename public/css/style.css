@@ -1,10 +1,10 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Roboto', 'Rubik', sans-serif;
+  font-family: 'Rubik', sans-serif;
 }
 
   h5{
-    font-family: 'Roboto', 'Rubik', sans-serif;
+    font-family: 'Rubik', sans-serif;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
@@ -15,6 +15,7 @@ h1,h2,h3,h4,h5,p{
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
     font-weight: 600;
+    padding-bottom: 15px;
   }
 
   p{
@@ -51,7 +52,7 @@ a:hover{
   max-width: 100%;
   margin-bottom: 1rem;
   border: solid 4px #fefefe;
-  border-radius: 0;
+  border-radius: 10;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   line-height: 0;
 }
@@ -150,7 +151,7 @@ a:hover{
 }
 
 .cell:hover {
-  padding: 20px;
+  padding: 1px;
 }
 
 .title-bar-title {
