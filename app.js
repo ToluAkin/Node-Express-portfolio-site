@@ -1,60 +1,45 @@
 //require global variables
 const express = require('express');
 const bodyParser = require('body-parser');
-const { projects } = require('./data.json');
-
 const app = express();
+
+//custom 404
+const fourOhFourError = `The page requested does not exist. You can navigate from the homepage.`;
 
 app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: false }));
+
 //Add static middleware
 app.use('/static', express.static('public'));
 
 // view engine setup
 app.set('view engine', 'pug');
 
-// render the landing page
-app.get('/', (req, res) => {
-    res.render('index', { projects });
-});
-
-//render project page
-app.get('/project/:id', (req, res) => {
-    const projectId = req.params.id;
-    const project = projects.find( ({ id }) => id === +projectId );
-
-    if (project) {
-        res.render('project', { project });
-    } else {
-        res.sendStatus(404);
-    }
-})
-
-//render about page
-app.get('/about', (req, res) => {
-    res.render('about');
-});
+//require the routes folder
+const mainRoutes = require('./routes');
+app.use(mainRoutes);
 
 //Handling errors
 app.use((req, res, next) => {
-    const err = new Error();
+    const err = new Error(fourOhFourError );
     err.status = 404;
-    err.message = `The page requested does not exist. You can navigate from the homepage.`
-    console.log(`Error: ${err.status}. ${err.message}`);
+    console.log(`Error: ${ err.status }. ${ err.message }`);
     next(err);
-    res.render('page-not-found');
 });
 
 //Global Error Handler
 app.use((err, req, res, next) => {
-    if (err) {
-        console.log('Global error handler called', err)
-    }
+    res.locals.error = err;
+    res.status(err.status);
 
-    if (err.status === 404) {
+    if (res.status(404)) {
+        err.status = 404;
+        err.message = fourOhFourError;
+        console.log(`${ err.status }: ${ fourOhFourError }`);
         res.status(404).render('page-not-found', { err });
     } else {
         err.message = err.message || `Ooops! It looks like something went wrong on the server.`
+        console.log(err.message);
         res.status(err.status || 500).render('error', { err });
     }
 });
