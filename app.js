@@ -3,8 +3,8 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const app = express();
 
-//custom 404
-const fourOhFourError = `The page requested does not exist. You can navigate from the homepage.`;
+//custom 404 error message
+const fourOhFourError = `The page requested does not exist.`;
 
 app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: false }));
@@ -19,7 +19,7 @@ app.set('view engine', 'pug');
 const mainRoutes = require('./routes');
 app.use(mainRoutes);
 
-//Handling errors
+// catch 404 and forward to error handler
 app.use((req, res, next) => {
     const err = new Error(fourOhFourError );
     err.status = 404;
@@ -38,7 +38,7 @@ app.use((err, req, res, next) => {
         console.log(`${ err.status }: ${ fourOhFourError }`);
         res.status(404).render('page-not-found', { err });
     } else {
-        err.message = err.message || `Ooops! It looks like something went wrong on the server.`
+        err.message = `Ooops! It looks like something went wrong on the server.`
         console.log(err.message);
         res.status(err.status || 500).render('error', { err });
     }
