@@ -32,11 +32,12 @@ h1,h2,h3,h4,h5,p{
 }
 
 .button{
-  background-color: #333;
+  background-color: #5E72E4;
+  border-radius: 20px;
 }
 
 .button:hover{
-  background-color: #111;
+  background-color: #069;
 }
 
 a{
@@ -52,7 +53,7 @@ a:hover{
   max-width: 100%;
   margin-bottom: 1rem;
   border: solid 4px #fefefe;
-  border-radius: 10;
+  border-radius: 0;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   line-height: 0;
 }
@@ -150,10 +151,22 @@ a:hover{
     line-height: 25px;
 }
 
-.cell:hover {
-  padding: 1px;
+/* style added */
+.project-card {
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.portfolio-index .thumbnail {
+  border-radius: 10px;
 }
 
 .title-bar-title {
   text-transform: uppercase;
+}
+@media (max-width: 991.98px) {
+  .grid-x > .small-6 {
+    width: 100% !important;
+  }
 }

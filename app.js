@@ -45,6 +45,7 @@ app.use((req, res, next) => {
     res.render('page-not-found');
 });
 
+//Global Error Handler
 app.use((err, req, res, next) => {
     if (err) {
         console.log('Global error handler called', err)
@@ -57,6 +58,7 @@ app.use((err, req, res, next) => {
         res.status(err.status || 500).render('error', { err });
     }
 });
+
 //listening on port 3000
 app.listen(3000, () => {
     console.log("This app is running on http://localhost:3000/");

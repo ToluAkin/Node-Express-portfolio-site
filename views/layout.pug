@@ -8,31 +8,25 @@ html(class="no-js" lang="en" dir="ltr")
     link(href='https://fonts.googleapis.com/css2?family=Roboto&family=Rubik&display=swap', rel='stylesheet')
     link(rel='stylesheet', href='/static/css/foundation.css')
     link(rel='stylesheet', href='/static/css/style.css')
+    link(rel="icon" type="image/png" href="/static/images/favicon.ico")
+
   body
     #my-info.off-canvas.position-left.reveal-for-large.portfolio-me(data-off-canvas='')
       .grid-y.grid-padding-x(style='height: 100%;')
         block sidebar
           br
           .cell.shrink
-            img.thumbnail(src='https://placehold.it/550x350')
+            img.thumbnail(src="/static/images/profile_picture.png")
           .cell.auto
-
-            //- Add your name here.
             h5 Toluwalase Akintoye
-
-            //- Add text here to describe who you are, what you do, and why you are so awesome.
             p.text-light
-              | Software Engineer. Enjoys travelling, games, watching comedy movies.
-
-            //- Add about page route to the href below. 
+              | Software Engineer. Enjoys travelling, puzzle games and watching comedy movies.
             a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
       .title-bar.hide-for-large
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
-
-          //- Add your name here.  This is for the mobile screen sized version.
           span.title-bar-title Toluwalase Akintoye
       block content
         
