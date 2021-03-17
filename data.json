@@ -14,8 +14,8 @@
       "project_name": "List Pagination and Filtering",
       "description": "List Pagination and Filtering is navigating through a long list of items by displaying a handful of items on one page and provide navigation to jump to a list of more items. Users can also filter by name.",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "https://toluakin.github.io/Treehouse-FSJS-2/",
-      "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-2",
+      "live_link": "https://toluakin.github.io/pagination-and-filtering/",
+      "github_link": "https://github.com/ToluAkin/pagination-and-filtering",
       "image_urls": ["/static/images/students_550_X_550.png", "/static/images/students_start.png","/static/images/students_end.png", "/static/images/students_search.png", "/static/images/students_last.png"]
     },
     {
