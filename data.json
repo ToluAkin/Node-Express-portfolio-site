@@ -30,10 +30,10 @@
     {
       "id": 3,
       "project_name": "OOP Game Show App ",
-      "description": "A browser-based, word guessing game: 'Phrase Hunter.'. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. with limited number of attempts",
+      "description": "Interactive Form displays a form enhancement such that it’s engaging, interactive, and easy to use. The form fields validated are with friendly error messages.",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "https://toluakin.github.io/Treehouse-FSJS-4/",
-      "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-4",
+      "live_link": "https://toluakin.github.io/interactive-form/",
+      "github_link": "https://github.com/ToluAkin/interactive-form",
       "image_urls": ["/static/images/phrase_hunter_550_X_550.png", "/static/images/phrase_hunter_new_game.png", "/static/images/phrase_hunter_game_ongoing.png", "/static/images/phrase_hunter_game_lost.png", "/static/images/phrase_hunter_game_won.png"]
     },
     {
