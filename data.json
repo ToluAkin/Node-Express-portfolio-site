@@ -41,8 +41,8 @@
       "project_name": "Public API Requests",
       "description": "Created an employee directory by communicating with a third-party API (Application Programming Interface) to display a specific number details.",
       "technologies": ["HTML", "CSS", "JavaScript"],
-      "live_link": "https://toluakin.github.io/Treehouse-FSJS-5/",
-      "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-5",
+      "live_link": "https://toluakin.github.io/employee-directory/",
+      "github_link": "https://github.com/ToluAkin/employee-directory",
       "image_urls": ["/static/images/public_api_requests_550_X_550.png", "/static/images/public_api_requests_modal_start.png", "/static/images/public_api_requests_modal_middle.png", "/static/images/public_api_requests_last_details.png", "/static/images/public_api_requests_search.png"]
     }
   ]
