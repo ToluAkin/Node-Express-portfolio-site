@@ -167,6 +167,7 @@ a:hover{
 
 .title-bar-title {
   text-transform: uppercase;
+  font-size: 20px;
 }
 .title-bar {
   padding: 1.5rem 0.5rem;
