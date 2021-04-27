@@ -4,7 +4,7 @@
       "id": 0,
       "project_name": "A Random Quote Generator",
       "description": "A Random Quote Generator is a program that displays a randomly selected quote each time the user clicks a button or the quotes changes at a specific time interval as well as the background color.",
-      "technologies": ["HTML", "CSS", "JavaScript", "GITHUB"],
+      "technologies": ["Html", "CSS", "JavaScript", "Github"],
       "live_link": "https://toluakin.github.io/Treehouse_FSJS_1/",
       "github_link": "https://github.com/ToluAkin/Treehouse-FSJS-1",
       "image_urls": ["/static/images/random_quotes_0.png", "/static/images/random_quotes_1.png", "/static/images/random_quotes_2.png","/static/images/random_quotes_3.png", "/static/images/random_quotes_4.png"]
@@ -13,7 +13,7 @@
       "id": 1,
       "project_name": "List Pagination and Filtering",
       "description": "List Pagination and Filtering is navigating through a long list of items by displaying a handful of items on one page and provide navigation to jump to a list of more items. Users can also filter by name.",
-      "technologies": ["HTML", "CSS", "JavaScript", "GITHUB"],
+      "technologies": ["Html", "CSS", "JavaScript", "Github"],
       "live_link": "https://toluakin.github.io/pagination-and-filtering/",
       "github_link": "https://github.com/ToluAkin/pagination-and-filtering",
       "image_urls": ["/static/images/students_550_X_550.png", "/static/images/students_start.png","/static/images/students_end.png", "/static/images/students_search.png", "/static/images/students_last.png"]
@@ -22,7 +22,7 @@
       "id": 2,
       "project_name": "Interactive Form",
       "description": "Interactive Form displays a form enhancement such that it’s engaging, interactive, and easy to use. The form fields validated are with friendly error messages.",
-      "technologies": ["HTML", "CSS", "JavaScript", "GITHUB"],
+      "technologies": ["Html", "CSS", "JavaScript", "Github"],
       "live_link": "https://toluakin.github.io/interactive-form/",
       "github_link": "https://github.com/ToluAkin/interactive-form",
       "image_urls": [ "/static/images/interactive_form_550_X_550.png", "/static/images/interactive_form_start_error.png", "/static/images/interactive_form_middle_error.png", "/static/images/interactive_form_credit_card_error.png", "/static/images/interactive_form_middle_validate.png"]
@@ -31,7 +31,7 @@
       "id": 3,
       "project_name": "OOP Game Show App ",
       "description": "A browser-based, phrase guessing game: 'Phrase Hunter.'. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. with limited number of attempts",
-      "technologies": ["HTML", "CSS", "JavaScript", "GITHUB"],
+      "technologies": ["Html", "CSS", "JavaScript", "Github"],
       "live_link": "https://toluakin.github.io/oop-game-show-app/",
       "github_link": "https://github.com/ToluAkin/oop-game-show-app",
       "image_urls": ["/static/images/phrase_hunter_550_X_550.png", "/static/images/phrase_hunter_new_game.png", "/static/images/phrase_hunter_game_ongoing.png", "/static/images/phrase_hunter_game_lost.png", "/static/images/phrase_hunter_game_won.png"]
@@ -40,7 +40,7 @@
       "id": 4,
       "project_name": "Public API Requests",
       "description": "Created an employee directory by communicating with a third-party API (Application Programming Interface) to display a specific number details.",
-      "technologies": ["HTML", "CSS", "JavaScript", "GITHUB"],
+      "technologies": ["Html", "CSS", "JavaScript", "Github"],
       "live_link": "https://toluakin.github.io/employee-directory/",
       "github_link": "https://github.com/ToluAkin/employee-directory",
       "image_urls": ["/static/images/public_api_requests_550_X_550.png", "/static/images/public_api_requests_modal_start.png", "/static/images/public_api_requests_modal_middle.png", "/static/images/public_api_requests_last_details.png", "/static/images/public_api_requests_search.png"]
@@ -49,10 +49,19 @@
       "id": 5,
       "project_name": "Portfolio Site",
       "description": "This website contains all my live personal projects.",
-      "technologies": ["PUG", "CSS", "EXPRESS", "NODE", "GITHUB", "HEROKU"],
+      "technologies": ["Pug", "CSS", "Express", "NodeJs", "Github", "Heroku"],
       "live_link": "https://toluwalase.herokuapp.com/",
       "github_link": "https://github.com/ToluAkin/node-express-portfolio-site",
       "image_urls": ["/static/images/portfolio_550_X_550.jpeg", "/static/images/portfolio_top_page.jpeg", "/static/images/portfolio_end_page.jpeg", "/static/images/portfolio_about_start.jpeg", "/static/images/portfolio_about_end.jpeg"]
+    },
+    {
+      "id": 6,
+      "project_name": "React Gallery App",
+      "description": "A single page app that displays pictures based on what is searched and fetched from flickr. The gallery app has a search component to display searched images, and the searched text is added to the route.\nThere are 3 default displayed topics that are already setup using React Router.",
+      "technologies": ["CSS", "Flickr API","ReactJs", "Netlify"],
+      "live_link": "https://flickr-react-image-gallery-app.netlify.app/",
+      "github_link": "https://github.com/ToluAkin/react-gallery-app",
+      "image_urls": ["/static/images/search_550_X_550.png", "/static/images/search_skies.png", "/static/images/search_skies_middle.png", "/static/images/search_rainbows.png", "/static/images/search_eggs.png"]
     }
   ]
 }
