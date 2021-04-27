@@ -16,7 +16,7 @@
     "Express"
   ],
   "engines": {
-    "node": "13.0.1"
+    "node": "15.8.0"
   },
   "author": "Toluwalase Akintoye",
   "license": "MIT",
